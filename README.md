@@ -28,7 +28,7 @@ Preprocessing used:
 
 ## LSTM Details
 ### Neural Network Architecture
-$ Embedding (64) \rarr LSTM (32) \rarr Linear (6) \rarr LogSoftMax $
+$$ Embedding (64) \rightarrow LSTM (32) \rightarrow Linear (6) \rightarrow LogSoftMax $$
 
 ### Training History
 Loss history | Accuracy history 
